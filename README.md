@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I’m a cybersecurity student focusing on penetration testing, with a strong interest in understanding how systems fail and how attackers think.</h4>
+<h4 align="left">Cybersecurity graduate diving deep into the SOC Level 1 path — focused on detection, analysis, and incident response.</h4>
 
 ###
 
