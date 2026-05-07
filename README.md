@@ -8,13 +8,31 @@
 
 <h2 align="left">About me</h2>
 
-###
+-**Current goal:** Complete the TryHackMe SOC Level 1 and 2 path and build a strong foundation as a Security Analyst.
 
-<p align="left">📚 Current Learning Focus:<br>- Web Application Security (OWASP Top 10)<br>- Web vulnerability discovery and exploitation logic<br>- Network & service enumeration<br>- Linux and Windows privilege escalation fundamentals<br>🧠 How I Practice:<br>- TryHackMe & Hack The Box & Portswigger  labs<br>- Self-hosted vulnerable environments (authorized only)<br>- Writing structured notes and lab write-ups</p>
+-**What I'm learning:** SIEM & log analysis, threat detection, incident response, network traffic analysis, and digital forensics.
 
-###
+-**How I practise:** TryHackMe rooms & learning paths, structured notes and walkthroughs, hands-on labs in simulated SOC environments.
 
-<h2 align="left">I code with</h2>
+-**Focus area:** Blue team — monitoring, detection, triage, and analysis.
+
+---
+
+<h2 align="left">Current learning path</h2>
+
+**TryHackMe — SOC Level 1 (Security Analyst path)**
+
+`SIEM fundamentals` `Threat intelligence` `Network analysis` `Incident response` `Log analysis` `Digital forensics` `Endpoint security`
+
+---
+
+<h2 align="left">Tools & technologies</h2>
+
+`Splunk` `Elastic/Kibana` `Wireshark` `Suricata` `Zeek` `TheHive` `MITRE ATT&CK` `Linux CLI` `Python`
+
+---
+
+<h2 align="left">I also code with</h2>
 
 ###
 
